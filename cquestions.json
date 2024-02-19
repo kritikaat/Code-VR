@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the purpose of the 'sizeof' operator in C?",
+        "options": [
+            "To determine the size of a variable or data type",
+            "To allocate memory for a variable",
+            "To calculate the square root of a number",
+            "To find the length of a string"
+        ],
+        "code": " ",
+        "correctAnswer": "To determine the size of a variable or data type"
+    },
+    {
+        "question": "What is the difference between 'int' and 'unsigned int' in C?",
+        "options": [
+            "'int' is used for signed integers, 'unsigned int' is used for unsigned integers",
+            "'int' is used for positive integers, 'unsigned int' is used for negative integers",
+            "Both are used interchangeably",
+            "None of the above"
+        ],
+        "code": " ",
+        "correctAnswer": "'int' is used for signed integers, 'unsigned int' is used for unsigned integers"
+    },
+    {
+        "question": "In C, what does the 'break' statement do?",
+        "options": [
+            "Exits the loop or switch statement",
+            "Continues to the next iteration of the loop",
+            "Jumps to a specified label",
+            "Throws an exception"
+        ],
+        "code": " ",
+        "correctAnswer": "Exits the loop or switch statement"
+    },
+    {
+        "question": "Which header file is needed for using dynamic memory allocation functions in C?",
+        "options": [
+            "<stdlib.h>",
+            "<stdio.h>",
+            "<malloc.h>",
+            "<memory.h>"
+        ],
+        "code": " ",
+        "correctAnswer": "<stdlib.h>"
+    },
+    {
+        "question": "What is the purpose of the 'typedef' keyword in C?",
+        "options": [
+            "To create a new data type alias",
+            "To define a constant",
+            "To include a header file",
+            "To declare a function"
+        ],
+        "code": " ",
+        "correctAnswer": "To create a new data type alias"
+    }
+]

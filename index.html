@@ -1,0 +1,56 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code VR Event</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+
+        #language-selection {
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .language-button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #fff;
+        }
+
+        .language-button:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+<div id="language-selection">
+    <div>Select your preferred programming language:</div>
+    <div class="language-button" onclick="startQuiz('python')">Python</div>
+    <div class="language-button" onclick="startQuiz('java')">Java</div>
+    <div class="language-button" onclick="startQuiz('cpp')">C++</div>
+    <div class="language-button" onclick="startQuiz('c')">C</div>
+</div>
+
+<script>
+    function startQuiz(language) {
+        window.location.href = `${language}-quiz.html`;
+    }
+</script>
+
+</body>
+</html>

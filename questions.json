@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What does the following code print?",
+        "code": "print(\"Hello, World!\")",
+        "options": ["Hello, World!", "Nothing", "SyntaxError", "None of the above"],
+        "correctAnswer": "Hello, World!"
+    },
+    {
+        "question": "Which of the following is a correct way to comment in Python?",
+        "options": ["# This is a comment", "// This is a comment", "/* This is a comment */", "//- This is a comment"],
+        "code": " ",
+        "correctAnswer": "# This is a comment"
+    },
+    {
+        "question": "What is the output of the following code?",
+        "code": "print(3 + 5 * 2)",
+        "options": ["16", "13", "11", "None of the above"],
+        "correctAnswer": "13"
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "code": " ",
+        "options": ["String", "Tuple", "List", "Set"],
+        "correctAnswer": "List"
+    },
+    {
+        "question": "What is the purpose of the \"pass\" statement in Python?",
+        "code": " ",
+        "options": ["To terminate the program", "To create a placeholder with no effect", "To skip the current iteration in a loop", "To raise an exception"],
+        "correctAnswer": "To create a placeholder with no effect"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the main purpose of the 'static' keyword in Java?",
+        "options": [
+            "To create a constant",
+            "To allocate memory for an object",
+            "To make a method or variable belong to the class rather than an instance",
+            "To prevent inheritance"
+        ],
+        "code": " ",
+        "correctAnswer": "To make a method or variable belong to the class rather than an instance"
+    },
+    {
+        "question": "What is the difference between '==' and '.equals()' in Java for comparing strings?",
+        "options": [
+            "'==' compares object references, '.equals()' compares the actual contents of the strings",
+            "'==' compares the actual contents of the strings, '.equals()' compares object references",
+            "Both are used interchangeably",
+            "None of the above"
+        ],
+        "code": " ",
+        "correctAnswer": "'==' compares object references, '.equals()' compares the actual contents of the strings"
+    },
+    {
+        "question": "What is the purpose of the 'finally' block in a try-catch-finally statement?",
+        "options": [
+            "To catch exceptions",
+            "To execute code whether an exception is thrown or not",
+            "To specify code that should be executed only if an exception is thrown",
+            "To specify code that should be executed only if no exception is thrown"
+        ],
+        "code": " ",
+        "correctAnswer": "To execute code whether an exception is thrown or not"
+    },
+    {
+        "question": "What is the 'this' keyword used for in Java?",
+        "options": [
+            "To refer to the current instance of the class",
+            "To create a new instance of the class",
+            "To access a static variable",
+            "To call the superclass constructor"
+        ],
+        "code": " ",
+        "correctAnswer": "To refer to the current instance of the class"
+    },
+    {
+        "question": "Which Java keyword is used to define a constant?",
+        "options": [
+            "final",
+            "const",
+            "static",
+            "constant"
+        ],
+        "code": " ",
+        "correctAnswer": "final"
+    }
+]

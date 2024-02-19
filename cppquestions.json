@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is the significance of 'namespace' in C++?",
+        "options": [
+            "To define a new class",
+            "To organize code into separate files",
+            "To enclose a block of code",
+            "To avoid naming conflicts in code"
+        ],
+        "code": " ",
+        "correctAnswer": "To avoid naming conflicts in code"
+    },
+    {
+        "question": "What is the difference between 'class' and 'struct' in C++?",
+        "options": [
+            "'class' members are private by default, 'struct' members are public by default",
+            "'class' members are public by default, 'struct' members are private by default",
+            "Both are used interchangeably",
+            "None of the above"
+        ],
+        "code": " ",
+        "correctAnswer": "'class' members are private by default, 'struct' members are public by default"
+    },
+    {
+        "question": "What is the purpose of 'virtual' keyword in C++?",
+        "options": [
+            "To declare a variable",
+            "To create an abstract class",
+            "To enable dynamic polymorphism",
+            "To define a constant"
+        ],
+        "code": " ",
+        "correctAnswer": "To enable dynamic polymorphism"
+    },
+    {
+        "question": "In C++, what is an 'inline' function?",
+        "options": [
+            "A function defined inside a class",
+            "A function with no body",
+            "A function that is expanded in line at each call site",
+            "A function that returns a reference"
+        ],
+        "code": " ",
+        "correctAnswer": "A function that is expanded in line at each call site"
+    },
+    {
+        "question": "What is the purpose of 'new' and 'delete' operators in C++?",
+        "options": [
+            "To perform bitwise operations",
+            "To allocate and deallocate memory dynamically",
+            "To define a new class",
+            "To overload operators"
+        ],
+        "code": " ",
+        "correctAnswer": "To allocate and deallocate memory dynamically"
+    }
+]
